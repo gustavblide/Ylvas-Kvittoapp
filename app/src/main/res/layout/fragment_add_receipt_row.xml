@@ -1,0 +1,63 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    tools:context="com.kvittoapp.AddReceiptRowFragment">
+
+    <EditText
+        android:id="@+id/add_item_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:hint="Lägg till namn på vara"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+    </EditText>
+    <LinearLayout
+        android:id="@+id/add_category_holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+
+        <EditText
+            android:id="@+id/add_category_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:hint="Lägg till kategori eller välj från listan"
+            android:imeOptions="actionDone"/>
+
+        <Spinner
+            android:id="@+id/add_category_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Välj kategori"
+            android:orientation="vertical"></Spinner>
+</LinearLayout>
+    <EditText
+        android:id="@+id/add_price_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:hint="Lägg till pris"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+
+    </EditText>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/add_row_fragment_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lägg till vara"/>
+    </RelativeLayout>
+
+</LinearLayout>

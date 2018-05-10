@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/outmost_linearlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/receiptbackground"
+    >
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="100dp"
+    android:layout_marginBottom="100dp"
+    android:layout_marginLeft="40dp"
+    android:layout_marginRight="40dp"
+    android:weightSum="3">
+
+        <Button
+            android:id="@+id/scan_receipt_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Skanna kvitto"
+            android:layout_weight="1"
+            android:background="#6c9552"
+            android:alpha="0.80"/>
+        <Button
+            android:id="@+id/without_receipt_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Mata in utan kvitto"
+            android:layout_weight="1"
+            android:background="#6c9552"
+            android:alpha="0.80"/>
+        <Button
+            android:id="@+id/manage_receipt_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Hantera kvitton"
+            android:layout_weight="1"
+            android:background="#6c9552"
+            android:alpha="0.80"/>
+    </LinearLayout>
+</LinearLayout>

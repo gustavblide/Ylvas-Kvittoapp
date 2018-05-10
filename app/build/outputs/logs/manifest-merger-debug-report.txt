@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:10:5-39:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Gustav\.android\build-cache\f04dd7d44f3a9b79ce19996134d075c38d411eeb\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Gustav\.android\build-cache\634443ec6880afd8c4a68aa45686bd31d710dc5c\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Gustav\.android\build-cache\c274b0c00d0d6ee7ce0a6b65289071a4ef27e69e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Gustav\.android\build-cache\ece568bc33aba1796248f1f68d7ff55ef73d2e37\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\Gustav\.android\build-cache\c803ed5512aa83afa8a97835dfc5f80a025a76ad\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Gustav\.android\build-cache\2b5076ed0c047a9e2755f8c03645212f6c1dec31\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Gustav\.android\build-cache\0d46632b190b45bcd8e470b6a450cced0ead4217\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Gustav\.android\build-cache\1246f49b7335f6d245d6bcc364059039562c15b0\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Gustav\.android\build-cache\76326235f30c6de4fcc1901fa8aab521debfaf3a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Gustav\.android\build-cache\0741aa46ea8d2aee8b620a49c987a3014fb27528\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Gustav\.android\build-cache\fa4957a8b41f11738ccec57ffa1c619f9d30ab02\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Gustav\.android\build-cache\9db140fda7191e923759242d91c17d6e7cebed1a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Gustav\.android\build-cache\a1c5bdac1934bb442805e0d699f40c328a5a2285\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Gustav\.android\build-cache\40b8983a0a7dcb8bd40bbbeee494261c8636a848\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Gustav\.android\build-cache\33ca030847c660ca19e16dd646c852a662551c6b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:15:9-37
+	android:supportsRtl
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:16:9-35
+	android:hardwareAccelerated
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:14:9-41
+	android:theme
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:17:9-65
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Gustav\.android\build-cache\ece568bc33aba1796248f1f68d7ff55ef73d2e37\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:25:9-112
+	android:name
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:25:19-100
+activity#com.kvittoapp.MainActivity
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:27:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.kvittoapp.NoReceiptActivity
+ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:35:9-38:81
+	android:label
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:37:13-56
+	android:theme
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml:36:13-46
+uses-sdk
+INJECTED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\Gustav\.android\build-cache\f04dd7d44f3a9b79ce19996134d075c38d411eeb\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Gustav\.android\build-cache\634443ec6880afd8c4a68aa45686bd31d710dc5c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Gustav\.android\build-cache\c274b0c00d0d6ee7ce0a6b65289071a4ef27e69e\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Gustav\.android\build-cache\ece568bc33aba1796248f1f68d7ff55ef73d2e37\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:24.2.0] C:\Users\Gustav\.android\build-cache\c803ed5512aa83afa8a97835dfc5f80a025a76ad\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Gustav\.android\build-cache\2b5076ed0c047a9e2755f8c03645212f6c1dec31\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Gustav\.android\build-cache\0d46632b190b45bcd8e470b6a450cced0ead4217\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Gustav\.android\build-cache\1246f49b7335f6d245d6bcc364059039562c15b0\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Gustav\.android\build-cache\76326235f30c6de4fcc1901fa8aab521debfaf3a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Gustav\.android\build-cache\0741aa46ea8d2aee8b620a49c987a3014fb27528\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Gustav\.android\build-cache\fa4957a8b41f11738ccec57ffa1c619f9d30ab02\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Gustav\.android\build-cache\9db140fda7191e923759242d91c17d6e7cebed1a\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Gustav\.android\build-cache\cffe0a90f44f011bb5bcaebacbd64a3ff36d0f25\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Gustav\.android\build-cache\a1c5bdac1934bb442805e0d699f40c328a5a2285\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Gustav\.android\build-cache\40b8983a0a7dcb8bd40bbbeee494261c8636a848\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Gustav\.android\build-cache\33ca030847c660ca19e16dd646c852a662551c6b\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Gustav\.android\build-cache\2b5076ed0c047a9e2755f8c03645212f6c1dec31\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gustav\AndroidStudioProjects\Ylvas kvittoapp\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Gustav\.android\build-cache\634443ec6880afd8c4a68aa45686bd31d710dc5c\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Gustav\.android\build-cache\634443ec6880afd8c4a68aa45686bd31d710dc5c\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Gustav\.android\build-cache\634443ec6880afd8c4a68aa45686bd31d710dc5c\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Gustav\.android\build-cache\634443ec6880afd8c4a68aa45686bd31d710dc5c\output\AndroidManifest.xml:20:19-85
